@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/zzzddd/todoreact/static/css/main.db2f91af.chunk.css",
+    "main.js": "/zzzddd/todoreact/static/js/main.94838f3e.chunk.js",
+    "main.js.map": "/zzzddd/todoreact/static/js/main.94838f3e.chunk.js.map",
+    "runtime-main.js": "/zzzddd/todoreact/static/js/runtime-main.e9f3255c.js",
+    "runtime-main.js.map": "/zzzddd/todoreact/static/js/runtime-main.e9f3255c.js.map",
+    "static/js/2.df09107f.chunk.js": "/zzzddd/todoreact/static/js/2.df09107f.chunk.js",
+    "static/js/2.df09107f.chunk.js.map": "/zzzddd/todoreact/static/js/2.df09107f.chunk.js.map",
+    "index.html": "/zzzddd/todoreact/index.html",
+    "precache-manifest.057904b98a89f9aecceb77e7c013616d.js": "/zzzddd/todoreact/precache-manifest.057904b98a89f9aecceb77e7c013616d.js",
+    "service-worker.js": "/zzzddd/todoreact/service-worker.js",
+    "static/css/main.db2f91af.chunk.css.map": "/zzzddd/todoreact/static/css/main.db2f91af.chunk.css.map",
+    "static/js/2.df09107f.chunk.js.LICENSE.txt": "/zzzddd/todoreact/static/js/2.df09107f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e9f3255c.js",
+    "static/js/2.df09107f.chunk.js",
+    "static/css/main.db2f91af.chunk.css",
+    "static/js/main.94838f3e.chunk.js"
+  ]
+}
